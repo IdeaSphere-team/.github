@@ -13,9 +13,9 @@
 
   | 🔨项目名 | 💡简介 | 🖥️语言 | 🔬框架 | 📜许可证 |
   | -------- | -------- | -------- | -------- | -------- |
-  | [IdeaSphere](https://github.com/IdeaSphere-team/IdeaSphere) | 主打简单实用易于配置的论坛程序，基于Python3完成开发。 | [![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)](https://www.python.org/downloads/release/python-3110/) | [![Flask](https://img.shields.io/badge/Flask-3.1.0-blueviolet?style=for-the-badge)](https://pypi.org/project/Flask/) | [![GitHub license](https://img.shields.io/github/license/IdeaSphere-team/IdeaSphere.svg?style=for-the-badge)](https://github.com/IdeaSphere-team/IdeaSphere/blob/main/LICENSE) |
+  | [IdeaSphere](https://github.com/IdeaSphere-team/IdeaSphere) | 主打简单实用易于配置的论坛程序，基于Python3完成开发 | [![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)](https://www.python.org/downloads/release/python-3110/) | [![Flask](https://img.shields.io/badge/Flask-3.1.0-blueviolet?style=for-the-badge)](https://pypi.org/project/Flask/) | [![GitHub license](https://img.shields.io/github/license/IdeaSphere-team/IdeaSphere.svg?style=for-the-badge)](https://github.com/IdeaSphere-team/IdeaSphere/blob/main/LICENSE) |
 
   
-  ![IdeaSphere-team](http://this.website.com/cmoe?name=IdeaSphere-team&theme=moebooru)
+  ![IdeaSphere-team](https://counter.seku.su/cmoe?name=IdeaSphere-team&theme=moebooru)
 
 </div>
