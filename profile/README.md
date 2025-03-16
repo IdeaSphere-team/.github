@@ -26,9 +26,11 @@
 
   | 🌏欢迎与我们交流 | 👋平台 |
   | -------- | -------- |
-  | Discode | [![Discord](https://img.shields.io/discord/1349304044723765258?style=for-the-badge&logo=discord)](https://discord.gg/eyn9GC88XP) |
-  | QQ交流群 | [1036347298](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0S7iEPBCDpSWgvzARFqxM_zyIlnQ2-km&authKey=AiX0JpNVU8d%2BIjMocMxVhE0OcxbdOaQAt1wnnekYg%2BYQ0GZfOy3KXuSFTBZ2pDD2&noverify=0&group_code=1036347298) |
-  
+  | Discode | [![Discord](https://img.shields.io/discord/1349304044723765258?style=for-the-badge&logo=discord)](https://discord.gg/eyn9GC88XP)  <- **点击加入 / Click to join** |
+  | QQ 交流群 | [1036347298](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0S7iEPBCDpSWgvzARFqxM_zyIlnQ2-km&authKey=AiX0JpNVU8d%2BIjMocMxVhE0OcxbdOaQAt1wnnekYg%2BYQ0GZfOy3KXuSFTBZ2pDD2&noverify=0&group_code=1036347298)  <- **点击加入 / Click to join** |
+
+  <h3 align="center">访问计数 | Access count</h3>
+
   ![IdeaSphere-team](https://counter.seku.su/cmoe?name=IdeaSphere-team&theme=moebooru)
 
 </div>
