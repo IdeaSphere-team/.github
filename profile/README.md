@@ -31,6 +31,6 @@
 
   <h3 align="center">访问计数 | Visit Count</h3>
 
-  ![IdeaSphere-team](https://counter.seku.su/cmoe?name=IdeaSphere-team&theme=moebooru)
+  ![IdeaSphere-team](https://count.kjchmc.cn/get/@IdeaSphere?theme=gelbooru)
 
 </div>
