@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/IdeaSphere-team/">
-    <img src="https://github.com/IdeaSphere-team/IdeaSphere/blob/main/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/IdeaSphere-team/IdeaSphere/blob/main/templates/static/img/logo-white.pngg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">IdeaSphere-team</h3>
