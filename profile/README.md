@@ -18,7 +18,7 @@
   ⭐如果您对我们的任何一个项目感兴趣请点个Star，您的每一个Star都是对我们的支持和鼓励</br>
   ⭐If any of our projects interests you, please give it a Star. Every Star is a vote of support and encouragement.
 
-  | 🔨项目信息 | 💡简介 | 🖥️语言 | 🔬框架 | 📜许可证 | ⭐Star |
+  | 🔨项目 | 💡简介 | 🖥️语言 | 🔬框架 | 📜许可证 | ⭐Star |
   | -------- | -------- | -------- | -------- | -------- | -------- |
   | [IdeaSphere](https://github.com/IdeaSphere-team/IdeaSphere) | 主打简单实用易于配置的论坛程序，基于Python3完成开发 | [![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/release/python-3110/) | [![Flask](https://img.shields.io/badge/Flask-3.1.0-blueviolet?style=for-the-badge)](https://pypi.org/project/Flask/) | [![GitHub license](https://img.shields.io/github/license/IdeaSphere-team/IdeaSphere.svg?style=for-the-badge)](https://github.com/IdeaSphere-team/IdeaSphere/blob/main/LICENSE) | [![Stars](https://img.shields.io/github/stars/IdeaSphere-team/IdeaSphere.svg?style=for-the-badge)](https://github.com/IdeaSphere-team/IdeaSphere/stargazers) |
 
