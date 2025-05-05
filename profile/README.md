@@ -16,7 +16,7 @@
   💡Your feedback is highly valued. We'll actively incorporate it to keep improving and optimizing.</br>
   
   ⭐如果您对我们的任何一个项目感兴趣请点个Star，您的每一个Star都是对我们的支持和鼓励</br>
-  ⭐If any of our projects interests you, please give it a Star. Every Star is a vote of support and encouragement.
+  ⭐If any of our projects interests you, please give it a Star. Every Star is a vote of support and encouragement.</br>
 
   | 🔨项目 | 💡简介 | 🖥️语言 | 🔬框架 | 📜许可证 | ⭐Star |
   | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -32,5 +32,10 @@
   <h3 align="center">访问计数 | Visit Count</h3>
 
   ![IdeaSphere-team](https://count.kjchmc.cn/get/@IdeaSphere?theme=gelbooru)
+
+  <h3 align="center">捐赠我们 | Donate to Us</h3>
+
+  📫 如果您喜欢我们的工作，请随时通过我们的 [Open Collective](https://opencollective.com/ideasphere) 或 IdeaSphere 的 [爱发电](https://afdian.com/a/ideasphere) 捐款。</br>
+  📫 If you like our work, you can donate anytime via our [Open Collective](https://opencollective.com/ideasphere) or IdeaSphere’s [AFDIAN](https://afdian.com/a/ideasphere).
 
 </div>
