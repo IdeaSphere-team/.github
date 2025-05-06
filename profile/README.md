@@ -30,10 +30,6 @@
   | QQ 交流群 | [1036347298](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0S7iEPBCDpSWgvzARFqxM_zyIlnQ2-km&authKey=AiX0JpNVU8d%2BIjMocMxVhE0OcxbdOaQAt1wnnekYg%2BYQ0GZfOy3KXuSFTBZ2pDD2&noverify=0&group_code=1036347298)  <- **点击加入 / Click to Join** |
   | Telegram 群组 | [Telegram Group](https://t.me/+vp7hIx464JUwMzk1)  <- **点击加入 / Click to Join** |
 
-  <h3 align="center">访问计数 | Visit Count</h3>
-
-  ![IdeaSphere-team](https://count.kjchmc.cn/get/@IdeaSphere?theme=gelbooru)
-
   <h3 align="center">捐赠我们 | Donate to Us</h3>
 
   📫 如果您喜欢我们的工作，请随时通过我们的 [Open Collective](https://opencollective.com/ideasphere) 或 IdeaSphere 的 [爱发电](https://afdian.com/a/ideasphere) 捐款。</br>
